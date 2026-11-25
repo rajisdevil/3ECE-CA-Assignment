@@ -1,6 +1,6 @@
-## 📚 CA Assignment – 1st Semester (ECE)
+## 📚 CA Assignment – 3rd Semester (ECE)
 
-Welcome to the CA Assignment – 1st Semester (ECE) repository!
+Welcome to the CA Assignment – 3rd Semester (ECE) repository!
 
 This is an open-source initiative created to provide well-organized and easily accessible Continuous Assessment (CA) assignments for Electronics and Communication Engineering (ECE) students.
 
